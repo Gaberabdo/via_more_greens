@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "295515903282",
+    "project_id": "via-more-greens",
+    "storage_bucket": "via-more-greens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295515903282:android:d9cf69583ab2e802ef732b",
+        "android_client_info": {
+          "package_name": "com.example.via_green"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295515903282-3jecps4vr2rcf2gfafe9jejv7112f88n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.via_green",
+            "certificate_hash": "1d864540d2ba320f41232d01ff66092ecf30715d"
+          }
+        },
+        {
+          "client_id": "295515903282-1ljvoaaod8chnks8qcn3tlm7kpgepskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUtBpZYkBbYuT6WzswFkeWlChNkHlkkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295515903282-1ljvoaaod8chnks8qcn3tlm7kpgepskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

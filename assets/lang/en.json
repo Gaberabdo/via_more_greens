@@ -1,0 +1,23 @@
+{
+    "login": "Login",
+    "register": "Register",
+    "email": "Email Address",
+    "address": "Address",
+    "enterUrEmail": "Please enter your email address",
+    "checkYourEmail": "Check Your Email",
+    "receiveEmail": "Please enter your email to receive the instruction to reset your password",
+    "sendMeNow": "Send me now",
+    "enterUrPassword": "Please enter your password",
+    "enterUrAddress": "Please enter your address",
+    "enterCharPassword": "Password more than 6 charts",
+    "save": "Save",
+    "edit": "Edit",
+    "addPetService": "Add pet service",
+    "inviteFriends": "Invite friends",
+    "help": "Help",
+    "settings": "Settings",
+    "signOut": "Sign Out",
+    "skip": "Skip",
+    "profile": "Your Profile"
+}
+
